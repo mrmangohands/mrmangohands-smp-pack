@@ -1,0 +1,13 @@
+name = "MrMangoHands' SMP"
+author = "MrMangoHands"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2a2dcaf0625928cef59c8d29d82a307278d1e101801dfbf1d439c95c8130ad4"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.6"
