@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "21acfe72242886e25b8b5cfc295c11c1f2ca9a46e2bb5f973e862b9213bb6883"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "2c0bf2b9dab79b91d944ce6bf0a9a8416c02ca81d33209efa8a724eb29c320d5"
+hash = "491154e7685a65eee47541ed5ea37b9c66620180818f3626471acabd7b702c06"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3c18caff27abeb8c609585c58f02178a5804c7ff999b1027becf54a0c97dc211"
+hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
 metafile = true
 
 [[files]]
