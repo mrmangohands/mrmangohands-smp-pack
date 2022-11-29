@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
+hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
 metafile = true
 
 [[files]]
