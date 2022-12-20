@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
+hash = "4bef15bc30f11169512e61ab1644c844df76450f768b65227f6dcd0a546b2c93"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "ab9f1a44770958246ddee1e25a0748ca8c4597daceadebe7ecd3b59b50df7951"
+hash = "d58a0d8c108bd04ab5939a68d2ed5a3bee652f102c3da89b9bfc866d44428961"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
+hash = "5911b5aabe250aaccaa98ff6462faf7acaf1eb01d2828d751f7aaa8c79186a46"
 metafile = true
 
 [[files]]
