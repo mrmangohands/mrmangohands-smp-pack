@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+hash = "d335568e8a10a9f1b14f828870474d99798f8e33b687ba1e765e7827f744fadc"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4bef15bc30f11169512e61ab1644c844df76450f768b65227f6dcd0a546b2c93"
+hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
 metafile = true
 
 [[files]]
@@ -77,17 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "d58a0d8c108bd04ab5939a68d2ed5a3bee652f102c3da89b9bfc866d44428961"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "5911b5aabe250aaccaa98ff6462faf7acaf1eb01d2828d751f7aaa8c79186a46"
+hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
+hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
 metafile = true
 
 [[files]]
